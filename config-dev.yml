@@ -1,0 +1,9 @@
+server:
+  port: 3344 # 端口
+
+spring:
+  application:
+    name: config-dev # 应用名称
+
+# 自定义配置
+name: config-dev

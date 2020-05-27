@@ -1,0 +1,9 @@
+server:
+  port: 3345 # 端口
+
+spring:
+  application:
+    name: config-test # 应用名称
+
+# 自定义配置
+name: config-test
